@@ -153,4 +153,4 @@ if __name__ == "__main__":
         
         df_result = apply_strategy(df_return, strategy, params)
 
-        df_result.to_parquet('s3://jdinvestment/top_min_results_{}_years_history.parquet')
+        df_result.to_parquet('s3://jdinvestment/top_min_results_{}_years_history.parquet'.format(history_years)
