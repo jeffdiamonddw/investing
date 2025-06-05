@@ -89,7 +89,7 @@ def apply_strategy_to_transaction_date(tup):
             return None
         df_result = strategy(df_train, df_validate, params)
         df_result.loc[:, 'transaction_date'] = transaction_date
-        print(df_result)
+        print(df_result.transaction_date.iloc[0], flush = True)
         return df_result
     except:
         return None
@@ -116,7 +116,7 @@ def apply_strategy(df_return, strategy, params):
     #     if result is not None:
     #         results += [result]
         
-    #results = pool.map(apply_strategy_to_transaction_date, workload)
+    results = pool.map(apply_strategy_to_transaction_date, workload[:5])
 
     DF_result = pd.DataFrame()
     for df_result in results:
@@ -132,7 +132,7 @@ def apply_strategy(df_return, strategy, params):
 if __name__ == "__main__":  
     
     #Read in return data
-    df_return = pd.read_parquet('data/returns_4_52.parquet')
+    df_return = pd.read_parquet('s3://jdinvestment/returns_4_52.parquet')
    
     strategy = top_min_return_strategy
     for history_years in [7,8,9,10]:
@@ -153,4 +153,4 @@ if __name__ == "__main__":
         
         df_result = apply_strategy(df_return, strategy, params)
 
-        df_result.to_parquet('s3://jdinvesting/top_min_results_{}_years_history.parquet')
+        df_result.to_parquet('s3://jdinvestment/top_min_results_{}_years_history.parquet')

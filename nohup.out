@@ -1,3 +1,2052 @@
 nohup: ignoring input
-done (symbol, hold_weeks) = (CNSWF,4)
-done (symbol, hold_weeks) = (BRK-b,4)
+running history_years = 7
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, UNH, JKHY, TDG, CP...  ...        2017-08-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, UNH, JKHY, CPK, EF...  ...        2017-09-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, WST, WTKW...  ...        2021-05-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, WST, WTKW...  ...        2021-05-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, JKHY, UNH, CTAS, C...  ...        2017-09-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, JKHY, UNH, CTAS, C...  ...        2017-09-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, PAYC, POOL, WST...  ...        2021-05-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, PAYC, POOL, WST...  ...        2021-05-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, CTAS, AWK, JKHY, UNH, C...  ...        2017-09-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, CTAS, AWK, JKHY, UNH, P...  ...        2017-10-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, PAYC, POOL, WST...  ...        2021-05-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, PAYC, WST...  ...        2021-06-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CTAS, CHTR, AWK, JKHY, UNH, P...  ...        2017-10-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CTAS, CHTR, AWK, JKHY, UNH, P...  ...        2017-10-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, PAYC, WST...  ...        2021-06-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, PAYC, WST...  ...        2021-06-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, CTAS, AFG, CHTR, AWK, JKHY, UNH, P...  ...        2017-11-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, HIFS, AFG, CHTR, AWK, JKHY, UNH, P...  ...        2017-11-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, PAYC, WST...  ...        2021-07-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, PAYC, WST...  ...        2021-07-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, HIFS, AFG, CHTR, AWK, JKHY, UNH, P...  ...        2017-11-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, HIFS, AFG, CHTR, AWK, JKHY, UNH, P...  ...        2017-11-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, PAYC, WST...  ...        2021-07-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, POOL, CTAS, PAYC, WST...  ...        2021-08-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CTAS, CHTR, AWK, JKHY, UNH, P...  ...        2017-10-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CTAS, CHTR, AWK, JKHY, UNH, P...  ...        2017-10-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, PAYC, WST...  ...        2021-06-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, PAYC, WST...  ...        2021-07-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, HIFS, AFG, CHTR, AWK, JKHY, UNH, P...  ...        2017-12-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, HIFS, AFG, CHTR, AWK, JKHY, UNH, P...  ...        2017-12-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, POOL, CTAS, PAYC, WST...  ...        2021-08-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, POOL, CTAS, PAYC, WST...  ...        2021-08-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, HIFS, AFG, CHTR, AWK, JKHY, UNH, P...  ...        2017-12-31
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, HIFS, AWK, JKHY, UNH, P...  ...        2018-01-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, POOL, MSFT, FICO, CTAS, PAYC, WST...  ...        2021-09-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, POOL, MSFT, FICO, CTAS, PAYC, WST...  ...        2021-09-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, HIFS, AFG, CHTR, AWK, JKHY, UNH, P...  ...        2017-12-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, HIFS, AFG, CHTR, AWK, JKHY, UNH, P...  ...        2017-12-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, POOL, FICO, CTAS, PAYC, WST...  ...        2021-08-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, POOL, FICO, CTAS, PAYC, WST...  ...        2021-08-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, HIFS, AWK, JKHY, UNH, P...  ...        2018-02-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, HIFS, AWK, JKHY, UNH, P...  ...        2018-02-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, FICO, CTAS, PAYC, DHR...  ...        2021-10-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, FICO, CTAS, PAYC, DHR...  ...        2021-10-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, HIFS, AWK, JKHY, UNH, P...  ...        2018-02-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, HIFS, JKHY, UNH, AWK, P...  ...        2018-03-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, FICO, CTAS, PAYC, DHR...  ...        2021-10-31
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, CTAS, FICO, PAYC, DHR...  ...        2021-11-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, POOL, HIFS, JKHY, UNH, AWK, C...  ...        2018-04-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, POOL, HIFS, JKHY, UNH, AWK, C...  ...        2018-04-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, CTAS, PAYC, FICO, DHR...  ...        2021-12-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, CTAS, DHR, WTKWY, PAY...  ...        2021-12-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, POOL, HIFS, CHTR, JKHY, UNH, ...  ...        2018-03-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, POOL, HIFS, JKHY, UNH, AWK, C...  ...        2018-04-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, CTAS, FICO, PAYC, DHR...  ...        2021-11-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, CTAS, FICO, PAYC, DHR...  ...        2021-12-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, POOL, HIFS, JKHY, UNH, CHTR, ...  ...        2018-04-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, POOL, HIFS, JKHY, UNH, V, CHT...  ...        2018-04-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, CTAS, CWST, DHR, WTKW...  ...        2021-12-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, CTAS, CWST, DHR, WTKW...  ...        2022-01-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, HIFS, AWK, JKHY, UNH, P...  ...        2018-01-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, HIFS, AWK, JKHY, UNH, P...  ...        2018-02-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, FICO, CTAS, PAYC, WST...  ...        2021-10-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, FICO, CTAS, PAYC, DHR...  ...        2021-10-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, HIFS, JKHY, POOL, UNH, ...  ...        2018-03-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, POOL, HIFS, JKHY, UNH, ...  ...        2018-03-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, CTAS, PAYC, FICO, DHR...  ...        2021-11-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, PAYC, CTAS, FICO, DHR...  ...        2021-11-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, POOL, HIFS, JKHY, UNH, V, LMT...  ...        2018-05-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, LMT, V, POOL, HIFS, JKHY, UNH...  ...        2018-05-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, CWST, MSFT, CTAS, DHR, WTKW...  ...        2022-01-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, CWST, MSFT, CTAS, DHR, WTKW...  ...        2022-01-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, HIFS, AWK, JKHY, UNH, P...  ...        2018-01-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, CHTR, HIFS, AWK, JKHY, UNH, P...  ...        2018-01-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, POOL, MSFT, FICO, CTAS, PAYC, WST...  ...        2021-09-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, ADBE, MSFT, FICO, CTAS, PAYC, WST...  ...        2021-09-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, LMT, V, POOL, HIFS, JKHY, UNH...  ...        2018-06-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, LMT, V, POOL, HIFS, JKHY, UNH...  ...        2018-06-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, CWST, ADBE, MSFT, CTAS, DHR, WTKW...  ...        2022-02-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, CWST, ADBE, MSFT, CTAS, DHR, WTKW...  ...        2022-02-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, HIFS, JKHY, UNH...  ...        2018-07-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, LMT, V, POOL, HIFS, JKHY, UNH...  ...        2018-07-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, CWST, POOL, MSFT, ADBE, CTAS, DHR, WTKW...  ...        2022-03-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, CWST, POOL, MSFT, ADBE, CTAS, DHR, WTKW...  ...        2022-03-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, HIFS, JKHY, UNH...  ...        2018-06-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, HIFS, JKHY, UNH...  ...        2018-06-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, CWST, ADBE, MSFT, CTAS, DHR, WTKW...  ...        2022-02-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, CWST, POOL, MSFT, ADBE, CTAS, DHR, WTKW...  ...        2022-02-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, JKHY, HIFS, UNH...  ...        2018-07-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, JKHY, HIFS, UNH...  ...        2018-08-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, CWST, POOL, MSFT, CTAS, ADBE, DHR, WTKW...  ...        2022-04-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, CWST, POOL, MSFT, CTAS, ADBE, DHR, WTKW...  ...        2022-04-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, LMT, V, POOL, HIFS, JKHY, UNH...  ...        2018-05-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, LMT, V, POOL, HIFS, JKHY, UNH...  ...        2018-05-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, CWST, ADBE, MSFT, CTAS, DHR, WTKW...  ...        2022-01-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, POOL, CWST, ADBE, MSFT, CTAS, DHR, WTKW...  ...        2022-01-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, JKHY, HIFS, UNH...  ...        2018-08-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, JKHY, HIFS, UNH...  ...        2018-09-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, CWST, POOL, MSFT, CTAS, WTKWY, WST, TMO...  ...        2022-05-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, POOL, MSFT, CTAS, WTKWY, WST, TMO...  ...        2022-05-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, JKHY, HIFS, UNH...  ...        2018-09-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, MPWR, AFG, V, POOL, JKHY, HIF...  ...        2018-09-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, POOL, MSFT, CTAS, WTKWY, TMO, WST...  ...        2022-05-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, POOL, MSFT, CTAS, WTKWY, TMO, WST...  ...        2022-06-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, JKHY, HIFS, UNH...  ...        2018-08-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, JKHY, HIFS, UNH...  ...        2018-08-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, CWST, POOL, MSFT, CTAS, ADBE, DHR, WTKW...  ...        2022-04-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, CWST, POOL, MSFT, CTAS, WTKWY, WST, ADB...  ...        2022-04-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, LMT, AFG, V, FICO, POOL, JKH...  ...        2018-10-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, LMT, AFG, FICO, V, POOL, JKH...  ...        2018-10-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, POOL, MSFT, CTAS, WTKWY, TMO, WST...  ...        2022-06-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, POOL, MSFT, CTAS, WTKWY, TMO, DHR...  ...        2022-06-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, LMT, AFG, FICO, V, POOL, JKH...  ...        2018-10-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, LMT, AFG, FICO, V, POOL, JKH...  ...        2018-10-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, POOL, MSFT, CTAS, WTKWY, TMO, CDN...  ...        2022-06-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, POOL, MSFT, CTAS, TMO, WTKWY, CDN...  ...        2022-07-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, AFG, LMT, V, POOL, HIFS, JKHY, UNH...  ...        2018-07-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, HIFS, JKHY, UNH...  ...        2018-07-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, CWST, POOL, MSFT, ADBE, CTAS, DHR, WTKW...  ...        2022-03-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, CWST, POOL, MSFT, CTAS, ADBE, DHR, WTKW...  ...        2022-03-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, JKHY, HIFS, UNH...  ...        2018-09-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, LMT, AFG, V, POOL, JKHY, HIFS, UNH...  ...        2018-09-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, POOL, MSFT, CTAS, WTKWY, TMO, WST...  ...        2022-05-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, POOL, MSFT, CTAS, WTKWY, TMO, WST...  ...        2022-05-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, LMT, AFG, FICO, V, POOL, JKH...  ...        2018-11-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, AFG, LMT, FICO, V, FI, POOL,...  ...        2018-11-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, MSFT, POOL, CTAS, TMO, WTKWY, CDN...  ...        2022-07-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, MSFT, POOL, CTAS, TMO, WTKWY, CDN...  ...        2022-07-31
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ROST, AZO, CHD, MCD, TYL, BTTRX, ODFL, NTES, ...  ...        2015-03-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ROST, AZO, CHD, MCD, TYL, BTTRX, ODFL, NTES, ...  ...        2015-04-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, AFG, LMT, FICO, V, FI, POOL,...  ...        2018-12-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, FI, AFG, LMT, FICO, V, POOL,...  ...        2018-12-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, MSFT, CTAS, TMO, WTKWY, POOL, CDN...  ...        2022-08-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, MSFT, CTAS, TMO, WTKWY, CDNS, PGR...  ...        2022-08-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, LMT, AFG, FICO, V, POOL, JKH...  ...        2018-11-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, LMT, AFG, FICO, V, POOL, JKH...  ...        2018-11-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, MSFT, POOL, CTAS, TMO, WTKWY, CDN...  ...        2022-07-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSCI, MSFT, POOL, CTAS, WTKWY, TMO, CDN...  ...        2022-07-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ROST, AZO, CHD, WSO-B, MCD, WSO, TYL, BTTRX, ...  ...        2015-05-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ROST, AZO, CHD, WSO-B, WSO, MCD, TYL, BTTRX, ...  ...        2015-05-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, FI, FICO, V, POOL, JKHY, UNH...  ...        2019-01-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, FI, FICO, V, POOL, JKHY, UNH...  ...        2019-01-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSFT, CTAS, TMO, PGR, CDNS, IPWLK, BRO,...  ...        2022-09-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSFT, TMO, CTAS, PGR, CDNS, IPWLK, BRO,...  ...        2022-09-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ROST, AZO, AWK, WSO-B, WSO, CHD, MCD, TYL, BT...  ...        2015-05-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ROST, AZO, AWK, WSO-B, WSO, CHD, MCD, TYL, BT...  ...        2015-05-31
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, FI, FICO, V, POOL, UNH, JKHY...  ...        2019-01-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, FI, FICO, V, POOL, UNH, JKHY...  ...        2019-02-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSFT, TMO, CTAS, PGR, CDNS, IPWLK, BRO,...  ...        2022-10-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSFT, TMO, CTAS, PGR, CDNS, IPWLK, BRO,...  ...        2022-10-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ROST, AZO, CHD, MCD, TYL, BTTRX, ODFL, WSO, N...  ...        2015-04-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ROST, AZO, CHD, MCD, TYL, WSO, BTTRX, ODFL, W...  ...        2015-04-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, FI, AFG, LMT, FICO, V, POOL,...  ...        2018-12-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, FI, FICO, LMT, V, POOL, AFG,...  ...        2018-12-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSFT, CTAS, TMO, WTKWY, MSCI, CDNS, PGR...  ...        2022-08-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSFT, CTAS, TMO, CDNS, PGR, IPWLK, MPWR...  ...        2022-08-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ROST, AZO, CHD, MCD, WSO-B, TYL, WSO, BTTRX, ...  ...        2015-04-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ROST, AZO, CHD, MCD, WSO, WSO-B, TYL, BTTRX, ...  ...        2015-05-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, FI, FICO, V, LMT, POOL, AFG,...  ...        2018-12-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, FI, FICO, V, POOL, JKHY, AFG...  ...        2019-01-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSFT, CTAS, TMO, CDNS, PGR, IPWLK, MPWR...  ...        2022-09-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, MSFT, CTAS, TMO, CDNS, PGR, IPWLK, WOLT...  ...        2022-09-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, WSO, WSO-B, CPK, CHD, MCD, TY...  ...        2015-06-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, WSO, WSO-B, CPK, CHD, MCD, JJ...  ...        2015-06-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, FI, CTAS, MPWR, FICO, V, POOL, JKHY, UNH...  ...        2019-02-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, FI, CTAS, MPWR, FICO, V, POOL, JKHY, UNH...  ...        2019-03-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, TMO, CTAS, PGR, IPWLK, BRO, CDNS, RSG, ...  ...        2022-10-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, TMO, PGR, CTAS, IPWLK, BRO, CDNS, WCN, ...  ...        2022-11-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, CPK, WSO, WSO-B, CASY, CHD, J...  ...        2015-08-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, CPK, WSO, WSO-B, JJSF, CASY, ...  ...        2015-08-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, FI, CTAS, ADBE, MPWR, JKHY, FICO, V, POO...  ...        2019-04-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, FI, CTAS, ADBE, MPWR, JKHY, FICO, V, POO...  ...        2019-04-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, TMO, WCN, GFSAY, XXAA...  ...        2022-12-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, WCN, GFSAY, XXAAU, TM...  ...        2022-12-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, CPK, WSO, WSO-B, ORLY, JJSF, ...  ...        2015-08-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, ORLY, AWK, CPK, JJSF, WSO, WSO-B, ...  ...        2015-08-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, FI, CTAS, ADBE, JKHY, MPWR, FICO, V, POO...  ...        2019-04-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, FI, CTAS, ADBE, JKHY, MPWR, FICO, V, POO...  ...        2019-04-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, WCN, XXAAU, GFSAY, TM...  ...        2022-12-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, XXAAU, GFSAY, WCN, TM...  ...        2023-01-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ORLY, ROST, GFSAY, AWK, JJSF, CPK, WSO, ...  ...        2015-09-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, AZO, ROST, GFSAY, AWK, JJSF, CPK, WSO, ...  ...        2015-09-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, DPZ, ADBE, CTAS, JKHY, MPWR, FICO, V, BFC...  ...        2019-05-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, DPZ, ADBE, CTAS, JKHY, MPWR, BFC, FICO, V...  ...        2019-05-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, GFSAY, XXAAU, WCN, AJ...  ...        2023-01-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, AJG, GFSAY, XXAAU, WC...  ...        2023-01-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, WSO-B, WSO, CHD, MCD, CPK, TY...  ...        2015-06-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, WSO-B, WSO, CHD, CPK, MCD, TY...  ...        2015-06-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, MPWR, FI, FICO, V, POOL, JKHY, UNH...  ...        2019-02-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, CTAS, FI, MPWR, FICO, V, POOL, JKHY, UNH...  ...        2019-02-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, TMO, CTAS, PGR, MSFT, IPWLK, BRO, CDNS,...  ...        2022-10-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, TMO, CTAS, PGR, IPWLK, BRO, CDNS, WOLTF...  ...        2022-10-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, AZO, JJSF, ROST, GFSAY, AWK, CACC, CPK,...  ...        2015-10-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, AZO, JJSF, ROST, GFSAY, AWK, CPK, CACC,...  ...        2015-10-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, DPZ, ADBE, CTAS, JKHY, LII, BFC, FICO, V,...  ...        2019-06-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, DPZ, CTAS, JKHY, LII, BFC, FICO, V,...  ...        2019-06-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [PGR, AJG, CWST, CTAS, IPWLK, XXAAU, GFSAY, WC...  ...        2023-02-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CWST, CTAS, IPWLK, XXAAU, GFSAY, WC...  ...        2023-02-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, AZO, JJSF, ROST, CACC, CPK, GFSAY, AWK,...  ...        2015-10-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, AZO, JJSF, ROST, CACC, CPK, GFSAY, AWK,...  ...        2015-11-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, DPZ, CTAS, LII, BFC, JKHY, FICO, V,...  ...        2019-06-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, DPZ, CTAS, BFC, LII, FICO, V, JKHY,...  ...        2019-07-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CWST, CTAS, IPWLK, XXAAU, GFSAY, WC...  ...        2023-03-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, CWST, IPWLK, XXAAU, GFSAY, UF...  ...        2023-03-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, WSO, WSO-B, CPK, CASY, CHD, M...  ...        2015-07-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, CPK, WSO, WSO-B, CASY, CHD, M...  ...        2015-07-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, FI, CTAS, MPWR, FICO, V, POOL, JKHY, BFC...  ...        2019-03-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, FI, CTAS, MPWR, ADBE, FICO, V, JKHY, POO...  ...        2019-03-31
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, TMO, WCN, GFSAY, XXAA...  ...        2022-11-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, TMO, WCN, GFSAY, XXAA...  ...        2022-12-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, WSO-B, WSO, CPK, CHD, MCD, JJ...  ...        2015-07-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ROST, AWK, WSO, WSO-B, CPK, CASY, CHD, M...  ...        2015-07-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, FI, CTAS, MPWR, FICO, V, POOL, JKHY, BFC...  ...        2019-03-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, FI, CTAS, MPWR, FICO, V, POOL, JKHY, BFC...  ...        2019-03-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, TMO, CTAS, IPWLK, WCN, BRO, GFSAY,...  ...        2022-11-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, TMO, WCN, GFSAY, XXAA...  ...        2022-11-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, CNSWF, AZO, JJSF, CACC, ROST, CPK, AWK,...  ...        2015-12-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, CNSWF, AZO, JJSF, CACC, ROST, SHW, CPK,...  ...        2015-12-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, DPZ, LII, BFC, FICO, V, POOL,...  ...        2019-08-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, DPZ, LII, FICO, V, BFC, POOL,...  ...        2019-08-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, GFSAY, XXAAU, UFPT, MM...  ...        2023-04-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, XXAAU, GFSAY, UFPT, MM...  ...        2023-04-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, JJSF, CACC, ROST, CPK, GFSA...  ...        2015-11-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, JJSF, CACC, ROST, CPK, GFSA...  ...        2015-11-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, DPZ, CTAS, BFC, LII, FICO, V, POOL,...  ...        2019-07-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, DPZ, LII, BFC, FICO, V, POOL,...  ...        2019-08-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, GFSAY, XXAAU, CWST, UF...  ...        2023-04-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, GFSAY, XXAAU, UFPT, CW...  ...        2023-04-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, CNSWF, AZO, JJSF, CACC, ROST, CPK, AWK,...  ...        2016-01-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, CNSWF, AZO, CACC, JJSF, ROST, CPK, AWK,...  ...        2016-01-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, LII, DPZ, FICO, V, BFC, POOL,...  ...        2019-09-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, LII, FICO, V, DPZ, BFC, POOL,...  ...        2019-09-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, GFSAY, XXAAU, UFPT, MM...  ...        2023-05-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, XXAAU, GFSAY, UFPT, MM...  ...        2023-05-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ORLY, ROST, GFSAY, AWK, JJSF, CPK, WSO, ...  ...        2015-09-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, AZO, ROST, JJSF, GFSAY, AWK, CPK, SHW, ...  ...        2015-10-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, DPZ, ADBE, CTAS, JKHY, BFC, FICO, V, LII,...  ...        2019-06-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, DPZ, ADBE, CTAS, JKHY, LII, BFC, FICO, V,...  ...        2019-06-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, AJG, IPWLK, GFSAY, XXAAU, WC...  ...        2023-02-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, AJG, IPWLK, GFSAY, XXAAU, WC...  ...        2023-02-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, CACC, JJSF, TDG, HIFS, ROST...  ...        2016-01-31
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, CACC, JJSF, TDG, HIFS, ROST...  ...        2016-02-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-10-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-10-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, GFSAY, XXAAU, UFPT, MM...  ...        2023-06-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, GFSAY, XXAAU, MM...  ...        2023-06-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, CACC, HIFS, JJSF, TDG, MKTX...  ...        2016-02-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, TDG, CACC, HIFS, JJSF, MKTX...  ...        2016-03-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-11-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-11-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-07-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-07-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, CACC, JJSF, TDG, HIFS, ROST...  ...        2016-02-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, CACC, HIFS, JJSF, TDG, MKTX...  ...        2016-02-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-10-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-10-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, GFSAY, XXAAU, MM...  ...        2023-06-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-07-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, HIFS, MKTX, TDG, CACC, JJSF...  ...        2016-03-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, HIFS, MKTX, TDG, HD, JJSF, ...  ...        2016-04-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-12-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-12-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-08-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-08-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, HIFS, MKTX, TDG, HD, JJSF, ...  ...        2016-04-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, HIFS, AZO, MKTX, TDG, HD, DSGX, ...  ...        2016-04-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-12-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, WM, BFC, POOL, ...  ...        2019-12-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, GFSAY, XXAAU, MM...  ...        2023-08-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-08-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, HIFS, AZO, MKTX, TDG, HD, AWK, D...  ...        2016-04-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, HIFS, AZO, MKTX, HD, TDG, AWK, D...  ...        2016-05-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, WM, BFC, POOL, ...  ...        2019-12-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, WM, BFC, POOL, ...  ...        2020-01-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-09-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-09-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, DPZ, HIFS, TDG, AWK, AZO, HD, MK...  ...        2016-06-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, DPZ, TDG, HIFS, AWK, AZO, AFG, M...  ...        2016-06-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, FICO, V, WM, RSG, BFC, POOL, ...  ...        2020-02-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, WM, FICO, V, RSG, BFC, POOL, ...  ...        2020-02-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-10-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-10-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, HIFS, AZO, MKTX, HD, AWK, DSGX, ...  ...        2016-05-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, HIFS, AZO, MKTX, AWK, DSGX, HD, ...  ...        2016-05-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, WM, BFC, POOL, ...  ...        2020-01-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, WM, BFC, POOL, ...  ...        2020-01-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-09-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-09-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ORLY, ROST, AWK, CPK, JJSF, WSO, WSO-B, ...  ...        2015-08-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AZO, ORLY, ROST, AWK, JJSF, CPK, WSO, WSO-B, ...  ...        2015-09-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, DPZ, CTAS, ADBE, JKHY, MPWR, FICO, V, BFC...  ...        2019-05-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, DPZ, ADBE, CTAS, JKHY, MPWR, FICO, V, BFC...  ...        2019-05-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, GFSAY, XXAAU, WCN, MM...  ...        2023-01-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CWST, PGR, CTAS, IPWLK, GFSAY, XXAAU, WCN, MM...  ...        2023-01-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, AZO, JJSF, ROST, CACC, CPK, GFSAY, AWK,...  ...        2015-11-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, JJSF, CACC, ROST, CPK, GFSA...  ...        2015-11-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, DPZ, CTAS, BFC, LII, FICO, V, POOL,...  ...        2019-07-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, DPZ, CTAS, BFC, LII, FICO, V, POOL,...  ...        2019-07-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, CWST, XXAAU, GFSAY, UF...  ...        2023-03-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, CWST, GFSAY, XXAAU, UF...  ...        2023-03-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, CNSWF, ORLY, DPZ, TDG, AFG, HIFS, AWK, M...  ...        2016-07-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, ORLY, DPZ, CNSWF, TDG, AFG, HIFS, AWK, M...  ...        2016-07-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, FICO, V, WM, RSG, POOL, MSFT,...  ...        2020-03-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, FICO, V, MSFT, WM, POOL, RSG,...  ...        2020-03-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, GFSAY, XXAAU, WB...  ...        2023-11-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, GFSAY, XXAAU, WB...  ...        2023-12-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, CNSWF, ORLY, DPZ, TDG, HIFS, AFG, AWK, M...  ...        2016-07-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, CNSWF, ORLY, DPZ, TDG, AFG, HIFS, AWK, M...  ...        2016-07-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, FICO, WM, V, RSG, POOL, ATO, ...  ...        2020-03-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, FICO, V, WM, RSG, POOL, MSFT,...  ...        2020-03-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, XXAAU, GFSAY, WB...  ...        2023-11-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, GFSAY, XXAAU, WB...  ...        2023-11-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, CNSWF, AZO, JJSF, CACC, ROST, SHW, CPK,...  ...        2015-12-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, CNSWF, AZO, JJSF, CACC, ROST, CPK, SHW,...  ...        2015-12-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, DPZ, LII, FICO, V, BFC, POOL,...  ...        2019-08-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, DPZ, LII, FICO, V, BFC, POOL,...  ...        2019-09-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, GFSAY, XXAAU, UFPT, MM...  ...        2023-04-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, XXAAU, GFSAY, UFPT, MM...  ...        2023-05-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [ORLY, CNSWF, AZO, CACC, JJSF, TDG, ROST, AWK,...  ...        2016-01-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, CACC, JJSF, TDG, ROST, AWK,...  ...        2016-01-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, LII, FICO, V, BFC, DPZ, POOL,...  ...        2019-09-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, LII, FICO, V, BFC, POOL, DPZ,...  ...        2019-09-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, XXAAU, GFSAY, UFPT, MM...  ...        2023-05-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, XXAAU, GFSAY, UFPT, MM...  ...        2023-06-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, TDG, HIFS, AFG, AWK, MANH, JK...  ...        2016-08-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, TDG, HIFS, AFG, AWK, MANH, JK...  ...        2016-09-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, MSFT, CTAS, MSCI, FICO, POOL, V, RS...  ...        2020-05-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, MSFT, MSCI, CTAS, FICO, POOL, V, RS...  ...        2020-05-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, IPWLK, UFPT, GFSAY, XXAA...  ...        2024-01-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, IPWLK, UFPT, XXAAU, GFSA...  ...        2024-01-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, TDG, HIFS, AFG, AWK, MANH, JK...  ...        2016-08-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, TDG, HIFS, AFG, AWK, MANH, JK...  ...        2016-08-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, FICO, MSFT, MSCI, POOL, V, RS...  ...        2020-04-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, MSFT, CTAS, FICO, MSCI, POOL, RSG, ...  ...        2020-04-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, LLY, UFPT, XXAAU, WBHC...  ...        2023-12-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, LLY, UFPT, XXAAU, WBHC...  ...        2023-12-31
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, TDG, HIFS, AFG, AWK, MANH, JK...  ...        2016-09-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, TDG, HIFS, AFG, AWK, MANH, CH...  ...        2016-09-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, MSCI, MSFT, FICO, CTAS, POOL, V, RS...  ...        2020-05-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, MSCI, MSFT, FICO, CTAS, POOL, V, GP...  ...        2020-05-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, IPWLK, UFPT, GFSAY, WBHC...  ...        2024-01-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, IPWLK, UFPT, WBHC, GFSAY...  ...        2024-01-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, HIFS, TDG, CACC, MKTX, JJSF...  ...        2016-03-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, AZO, HIFS, TDG, CACC, MKTX, JJSF...  ...        2016-03-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-11-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, BFC, POOL, WM, ...  ...        2019-11-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-07-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, CTAS, PGR, IPWLK, UFPT, GFSAY, XXAAU, MM...  ...        2023-07-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, AWK, TDG, HIFS, AFG, CHD, WDF...  ...        2016-11-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, AWK, TDG, HIFS, AFG, CHD, WDF...  ...        2016-11-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, FI, ADBE, MSFT, FICO, CTAS, POOL, V, BA...  ...        2020-07-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, FI, MSFT, FICO, CTAS, POOL, V, BA...  ...        2020-07-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, WBHC, XXAAU...  ...        2024-03-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, GFSAY, WBHC...  ...        2024-03-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, HIFS, TDG, AZO, AWK, MKTX, HD, D...  ...        2016-05-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, DPZ, HIFS, TDG, AZO, AWK, HD, MK...  ...        2016-05-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, LII, FICO, V, WM, BFC, POOL, ...  ...        2020-01-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, FICO, V, WM, LII, RSG, BFC, P...  ...        2020-02-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-10-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, XXAAU, GFSAY, MM...  ...        2023-10-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, ORLY, DPZ, CNSWF, TDG, AFG, HIFS, AWK, M...  ...        2016-07-31
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, ORLY, DPZ, TDG, AFG, CNSWF, HIFS, AWK, M...  ...        2016-08-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, FICO, MSFT, V, WM, MSCI, POOL...  ...        2020-04-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, ADBE, CTAS, FICO, MSFT, MSCI, V, POOL, WM...  ...        2020-04-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, XXAAU, GFSAY, WB...  ...        2023-12-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, LLY, XXAAU, WBHC...  ...        2023-12-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, EXR, AWK, ORLY, TDG, HIFS, AFG, CHD, WDF...  ...        2016-12-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, EXR, AWK, ORLY, TDG, HIFS, AFG, CHD, WDF...  ...        2016-12-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, FI, MSFT, FICO, CTAS, POOL, V, BA...  ...        2020-08-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, FI, CTAS, POOL, V, BA...  ...        2020-08-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, XXAAU, WBHC...  ...        2024-04-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, XXAAU, WBHC...  ...        2024-04-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, AWK, TDG, HIFS, AFG, CHD, WDF...  ...        2016-11-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, EXR, ORLY, AWK, TDG, HIFS, AFG, CHD, WDF...  ...        2016-11-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, FI, MSFT, FICO, CTAS, POOL, V, BA...  ...        2020-07-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, FI, MSFT, FICO, CTAS, POOL, V, BA...  ...        2020-08-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, XXAAU, WBHC...  ...        2024-03-31
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, XXAAU, IPWLK, GFSA...  ...        2024-04-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, TDG, HIFS, AWK, AFG, CHD, PSA...  ...        2016-10-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, TDG, HIFS, AWK, AFG, CHD, WDF...  ...        2016-10-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, MSCI, ADBE, FICO, MSFT, CTAS, POOL, V, GP...  ...        2020-06-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, MSCI, ADBE, FICO, MSFT, CTAS, POOL, V, GP...  ...        2020-06-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, IPWLK, UFPT, XXAAU, GFSA...  ...        2024-02-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, IPWLK, UFPT, XXAAU, WBHC...  ...        2024-02-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, EXR, AWK, ORLY, TDG, HIFS, AFG, CHD, WDF...  ...        2016-12-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, EXR, AWK, ORLY, TDG, HIFS, AFG, CHD, WDF...  ...        2016-12-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, FI, CTAS, POOL, V, BA...  ...        2020-08-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, FI, CTAS, POOL, V, BA...  ...        2020-08-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, XXAAU, WBHC...  ...        2024-04-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, XXAAU, WBHC...  ...        2024-05-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, AWK, TDG, HIFS, AFG, CHD, WDF...  ...        2016-10-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, AWK, TDG, HIFS, AFG, CHD, WDF...  ...        2016-10-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, MSCI, ADBE, FICO, MSFT, CTAS, POOL, V, GP...  ...        2020-06-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, MSCI, ADBE, FICO, MSFT, CTAS, POOL, V, BA...  ...        2020-07-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, IPWLK, UFPT, WBHC, XXAAU...  ...        2024-03-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, IPWLK, UFPT, WBHC, XXAAU...  ...        2024-03-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, ORLY, TDG, HIFS, EXR, AFG, CHD, WDF...  ...        2017-01-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, ORLY, TDG, HIFS, EXR, AFG, CHD, EFX...  ...        2017-01-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, FI, V, BA...  ...        2020-09-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, FI, V, BA...  ...        2020-09-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, XXAAU, WBHC, IPWLK...  ...        2024-05-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, WBHC, IPWLK, GFSAY...  ...        2024-06-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, ORLY, TDG, HIFS, AFG, CHD, EXR, EFX...  ...        2017-01-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, ORLY, TDG, HIFS, AFG, CHTR, CHD, EF...  ...        2017-02-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-10-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-10-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, WBHC, IPWLK, GFSAY...  ...        2024-06-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, GFSAY, IPWLK, XXAA...  ...        2024-06-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [CNSWF, ORLY, EXR, DPZ, TDG, HIFS, AWK, AFG, M...  ...        2016-06-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, CNSWF, ORLY, DPZ, TDG, HIFS, AWK, AFG, M...  ...        2016-06-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, WM, FICO, V, RSG, BFC, POOL, ...  ...        2020-02-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, CTAS, ADBE, WM, FICO, V, RSG, POOL, BFC, ...  ...        2020-03-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, GFSAY, XXAAU, MM...  ...        2023-10-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, IPWLK, UFPT, XXAAU, GFSAY, WB...  ...        2023-11-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, TDG, HIFS, AFG, AWK, CHD, MAN...  ...        2016-09-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [EXR, DPZ, ORLY, TDG, HIFS, AFG, AWK, CHD, PSA...  ...        2016-10-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, GP...  ...        2020-05-31
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [FI, MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, GP...  ...        2020-06-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, IPWLK, UFPT, WBHC, GFSAY...  ...        2024-02-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, IPWLK, UFPT, WBHC, GFSAY...  ...        2024-02-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, HIFS, TDG, AFG, CHTR, CHD, EFX, UNH...  ...        2017-04-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, HIFS, TDG, AFG, CHTR, CHD, EFX, UNH...  ...        2017-04-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-12-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-12-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, GFSAY, XXAA...  ...        2024-08-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, GFSAY, IPWLK, WBHC...  ...        2024-08-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, TDG, HIFS, ORLY, AFG, CHTR, CHD, EF...  ...        2017-02-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, TDG, HIFS, AFG, ORLY, CHTR, CHD, EF...  ...        2017-03-05
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-11-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-11-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, GFSAY, WBHC...  ...        2024-07-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, GFSAY, WBHC...  ...        2024-07-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, EXR, AWK, ORLY, TDG, HIFS, AFG, CHD, WDF...  ...        2017-01-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, ORLY, TDG, EXR, HIFS, AFG, CHD, WDF...  ...        2017-01-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, FI, POOL, V, BA...  ...        2020-09-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, FI, POOL, V, BA...  ...        2020-09-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, XXAAU, WBHC...  ...        2024-05-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, XXAAU, WBHC...  ...        2024-05-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, TDG, HIFS, AFG, CHTR, ORLY, CHD, EF...  ...        2017-03-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, TDG, HIFS, AFG, CHTR, ORLY, CHD, EF...  ...        2017-03-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-11-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-11-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, GFSAY, WBHC...  ...        2024-07-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, WBHC, IPWLK, GFSAY...  ...        2024-07-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, ORLY, TDG, HIFS, AFG, CHTR, CHD, EF...  ...        2017-02-12
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, TDG, ORLY, HIFS, AFG, CHTR, CHD, EF...  ...        2017-02-19
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-10-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-10-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, GFSAY, IPWLK, XXAA...  ...        2024-06-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, GFSAY, WBHC...  ...        2024-06-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, TDG, HIFS, AFG, CHTR, CHD, ORLY, EF...  ...        2017-03-26
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, HIFS, TDG, AFG, CHTR, CHD, EFX, UNH...  ...        2017-04-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-11-29
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-12-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, GFSAY, IPWLK, WBHC...  ...        2024-08-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, GFSAY, XXAA...  ...        2024-08-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, HIFS, TDG, AFG, CHTR, UNH, CHD, EFX...  ...        2017-05-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, HIFS, AFG, CHTR, TDG, UNH, CHD, EFX...  ...        2017-05-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2021-01-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2021-01-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, GFSAY, IPWLK, WBHC...  ...        2024-09-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, GFSAY, IPWLK, WBHC...  ...        2024-09-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, UNH, TDG, CHD, EFX...  ...        2017-07-16
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, UNH, TDG, CHD, EFX...  ...        2017-07-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, WST, WTKW...  ...        2021-03-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, WST, WTKW...  ...        2021-03-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, WBHC, GFSAY, IPWLK...  ...        2024-11-24
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, WBHC, XXAAU...  ...        2024-12-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AWK, AFG, CHTR, TDG, UNH, CHD, EFX...  ...        2017-06-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, AWK, CHTR, TDG, UNH, CHD, EFX...  ...        2017-06-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, BAH, WST,...  ...        2021-02-21
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, BAH, WST,...  ...        2021-02-28
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, WBHC, XXAAU...  ...        2024-10-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, GFSAY, IPWLK, WBHC...  ...        2024-11-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, AWK, CHTR, TDG, UNH, EFX, CHD...  ...        2017-07-02
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, UNH, TDG, EFX, CHD...  ...        2017-07-09
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, WST, WTKW...  ...        2021-03-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, WST, WTKW...  ...        2021-03-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, WBHC, GFSAY, XXAAU...  ...        2024-11-10
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, WBHC, GFSAY, IPWLK...  ...        2024-11-17
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, UNH, TDG, CPK, CHD...  ...        2017-07-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, UNH, TDG, CPK, EFX...  ...        2017-08-06
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, WST, WTKW...  ...        2021-04-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, WST, WTKW...  ...        2021-04-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, WBHC, IPWLK, GFSAY...  ...        2024-12-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, WBHC, GFSAY...  ...        2024-12-15
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, HIFS, TDG, AFG, CHTR, CHD, EFX, UNH...  ...        2017-04-23
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, HIFS, TDG, AFG, CHTR, CHD, UNH, EFX...  ...        2017-04-30
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2020-12-27
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, V, BAH, W...  ...        2021-01-03
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, GFSAY, IPWLK, WBHC...  ...        2024-09-01
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, GFSAY, IPWLK, WBHC...  ...        2024-09-08
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, AWK, HIFS, AFG, CHTR, TDG, UNH, CHD, EFX...  ...        2017-06-04
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AWK, AFG, CHTR, TDG, UNH, CHD, EFX...  ...        2017-06-11
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, BAH, WST,...  ...        2021-02-07
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, BAH, WST,...  ...        2021-02-14
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, GFSAY, IPWLK, WBHC...  ...        2024-10-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, WBHC, XXAAU...  ...        2024-10-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, UNH, TDG, CPK, JKH...  ...        2017-08-13
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [DPZ, HIFS, AFG, CHTR, AWK, UNH, TDG, JKHY, CP...  ...        2017-08-20
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, WST, WTKW...  ...        2021-04-18
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [MSCI, ADBE, MSFT, FICO, CTAS, POOL, WST, WTKW...  ...        2021-04-25
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, IPWLK, WBHC, XXAAU...  ...        2024-12-22
+
+[1 rows x 4 columns]
+                                              symbol  ...  transaction_date
+0  [AJG, PGR, CTAS, LLY, UFPT, WBHC, IPWLK, GFSAY...  ...        2024-12-29
+
+[1 rows x 4 columns]
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'fsspec'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/code/investing/top20_evaluation.py", line 156, in <module>
+    df_result.to_parquet('s3://jdinvesting/top_min_results_{}_years_history.parquet')
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/pandas/core/frame.py", line 3113, in to_parquet
+    return to_parquet(
+           ^^^^^^^^^^^
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/pandas/io/parquet.py", line 480, in to_parquet
+    impl.write(
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/pandas/io/parquet.py", line 198, in write
+    path_or_handle, handles, filesystem = _get_path_or_handle(
+                                          ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/pandas/io/parquet.py", line 121, in _get_path_or_handle
+    fsspec = import_optional_dependency("fsspec")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.local/lib/python3.12/site-packages/pandas/compat/_optional.py", line 138, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'fsspec'.  Use pip or conda to install fsspec.
