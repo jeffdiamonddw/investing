@@ -1,0 +1,1 @@
+{"num_stocks": 100, "max_num_trades": 50, "max_frac": 0.05, "max_addfuller": 0.05, "hold_years": 3, "history_years": 5, "min_price": 100, "max_price": 10000}
