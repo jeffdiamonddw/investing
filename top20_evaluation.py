@@ -121,7 +121,7 @@ def apply_strategy(df_return, strategy, params):
     #     if result is not None:
     #         results += [result]
         
-    results = pool.map(apply_strategy_to_transaction_date, workload[:5])
+    results = pool.map(apply_strategy_to_transaction_date, workload)
 
     DF_result = pd.DataFrame()
     for df_result in results:
@@ -140,7 +140,7 @@ if __name__ == "__main__":
     df_return = pd.read_parquet('s3://jdinvestment/returns_4_52.parquet')
    
     strategy = top_min_return_strategy
-    for history_years in [7,8,9,10]:
+    for history_years in [7]:
         print("running history_years = {}".format(history_years), flush = True)
         params = {
             'num_stocks': 20,
