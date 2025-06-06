@@ -149,7 +149,7 @@ if __name__ == "__main__":
     strategy = top_min_return_strategy
     DF_result = pd.DataFrame()
     for history_years in [5, 7, 10]:
-        for val_hold_weeks in [4, 156]:
+        for val_hold_weeks in [4, 52, 156]:
             print("running history_years = {}".format(history_years), flush = True)
             params = {
                 'num_stocks': 20,
