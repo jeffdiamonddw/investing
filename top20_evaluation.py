@@ -149,23 +149,24 @@ if __name__ == "__main__":
     strategy = top_min_return_strategy
     DF_result = pd.DataFrame()
     for history_years in [5, 7, 10]:
-        print("running history_years = {}".format(history_years), flush = True)
-        params = {
-            'num_stocks': 20,
-            'train_hold_weeks': 156,
-            'val_hold_weeks': 156,
-            'history_years': history_years,
-            'min_price': 100,
-            'max_price': 10000,
-            'latest_transaction_date' : 'Dec 31, 2021'
-        }
-        
-
-        
+        for val_hold_weeks in [4, 156]:
+            print("running history_years = {}".format(history_years), flush = True)
+            params = {
+                'num_stocks': 20,
+                'train_hold_weeks': 156,
+                'val_hold_weeks': val_hold_weeks,
+                'history_years': history_years,
+                'min_price': 100,
+                'max_price': 10000,
+                'latest_transaction_date' : 'Dec 31, 2021'
+            }
+            
     
+            
         
-        df_result = apply_strategy(df_return, strategy, params)
-        DF_result = pd.concat([DF_result, df_result])
-
-        df_result.to_parquet('s3://jdinvestment/top_min_results_{}_years_history.parquet'.format(history_years))
-    DF_result.to_parquet('s3://jdinvestment/top_min_results.parquet)
+            
+            df_result = apply_strategy(df_return, strategy, params)
+            DF_result = pd.concat([DF_result, df_result])
+    
+            df_result.to_parquet('s3://jdinvestment/top_min_results_{}_{}.parquet'.format(history_years, val_hold_weeks))
+    DF_result.to_parquet('s3://jdinvestment/top_min_results_1.parquet)
