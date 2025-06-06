@@ -51,11 +51,16 @@ def top_min_return_strategy(df_train, df_validate, params):
     
     #Get the validation matrix as the return on the first sell date past the specified sell date (hold_years hears after the buy date)
     df_validate = df_validate.set_index('symbol').loc[symbols]
+    buy_price = df_validate.buy_price.mean()
+    sell_price = df_validate.sell_price.mean()
+    period_return = sell_price/buy_price - 1
+    
+    
 
     
     
-    my_return = df_validate['annual_return'].mean()
-    df_result = pd.DataFrame({'symbol': [list(symbols)], 'annual_return': [my_return] })
+   
+    df_result = pd.DataFrame({'symbol': [list(symbols)], 'period_return': [period_return], 'buy_price': [buy_price], 'sell_price': [sell_price], buy_prices': [list(df_validate.buy_price.values)],  'sell_prices': [list(df_validate.sell_price.values)]})
     df_result.loc[:, 'hold_weeks'] = params['val_hold_weeks']
     return df_result
 
