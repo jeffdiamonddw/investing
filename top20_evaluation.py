@@ -60,7 +60,14 @@ def top_min_return_strategy(df_train, df_validate, params):
     
     
    
-    df_result = pd.DataFrame({'symbol': [list(symbols)], 'period_return': [period_return], 'buy_price': [buy_price], 'sell_price': [sell_price], buy_prices': [list(df_validate.buy_price.values)],  'sell_prices': [list(df_validate.sell_price.values)]})
+    df_result = pd.DataFrame({
+        'symbol': [list(symbols)], 
+        'period_return': [period_return], 
+        'buy_price': [buy_price], 
+        'sell_price': [sell_price], 
+        'buy_prices': [list(df_validate.buy_price.values)],  
+        'sell_prices': [list(df_validate.sell_price.values)]
+    })
     df_result.loc[:, 'hold_weeks'] = params['val_hold_weeks']
     return df_result
 
@@ -158,4 +165,4 @@ if __name__ == "__main__":
         
         df_result = apply_strategy(df_return, strategy, params)
 
-        df_result.to_parquet('s3://jdinvestment/top_min_results_{}_years_history.parquet'.format(history_years)
+        df_result.to_parquet('s3://jdinvestment/top_min_results_{}_years_history.parquet'.format(history_years))
